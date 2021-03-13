@@ -23,6 +23,14 @@
     * EC2 - AWS의 기본적인 컴퓨팅 서비스
         * EC2 라이브 사이클, 가격 정책 모델 숙지([전용호스트와 전용인스턴스의 차이](https://aws-diary.tistory.com/84)), 그 외에도 Savings plan이 있음.
         * 유저 데이터, 메타 데이터 설명
+    * Amazon VPC - AWS의 클라우드에서 격리된 프라이빗한 가상 네트워크
+        * CIDR 블록
+        * 보안 액세스 옵션들
+            * AWS Site-to-Site VPN
+            * AWS Direct Connect
+            * AWS Transit Gateway
+            * AWS VPN CloudHub
+            * 소프트웨어 VPN
     * EBS - 블록 스토리지 서비스
         * 여러 EBS 스토리지 타입들 설명
             * SSD
