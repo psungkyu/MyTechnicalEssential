@@ -161,8 +161,8 @@ Nick의 강의계획서 입니다. 전반적인 내용은 이 강의 수준에 �
 
 
 ## 고객 사례 레퍼런스
-1. This is my architecture [링크] (https://www.youtube.com/watch?v=K5ww_O4vsxo&list=PLhr1KZpdzukdeX8mQ2qO73bg6UKQHYsHb) - 다양한 고객 사례를 확인할 수 있고 실제로 워크로드에 따라 아키텍처를 어떻게 설계하는 지 확인할 수 있습니다. 
-2. AWS 고객 성공 사례 [링크] (https://aws.amazon.com/solutions/case-studies/?customer-references-cards.sort-by=item.additionalFields.publishedDate&customer-references-cards.sort-order=desc) - 다양한 고객의 마이그레이션에 대한 사례를 확인할 수 있습니다.
+1. This is my architecture [링크](https://www.youtube.com/watch?v=K5ww_O4vsxo&list=PLhr1KZpdzukdeX8mQ2qO73bg6UKQHYsHb) - 다양한 고객 사례를 확인할 수 있고 실제로 워크로드에 따라 아키텍처를 어떻게 설계하는 지 확인할 수 있습니다. 
+2. AWS 고객 성공 사례 [링크](https://aws.amazon.com/solutions/case-studies/?customer-references-cards.sort-by=item.additionalFields.publishedDate&customer-references-cards.sort-order=desc) - 다양한 고객의 마이그레이션에 대한 사례를 확인할 수 있습니다.
 
 
 ## 추가적으로 더 해야 할 일
