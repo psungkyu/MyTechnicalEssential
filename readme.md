@@ -50,7 +50,7 @@ Nick의 강의계획서 입니다. 전반적인 내용은 이 강의 수준에 �
             * P3 인스턴스 - 딥 러닝
             * R4/R5 인스턴스 - 분산 파일 시스템
     * Amazon VPC - AWS의 클라우드에서 격리된 프라이빗한 가상 네트워크
-        * 서브넷마스크, CIDR 블록
+        * 서브넷마스크, CIDR 블록 [IP 주소를 묶는 방법, CIDR란?](https://www.youtube.com/watch?v=kYiQGpPVnyI), [cidr.xyz](https://cidr.xyz/)
         + (필요하다면) 서브넷마스크 개념 화이트보딩
         * NAT 게이트웨이 - 내부 내트워크에서는 공인되지 않은 IP 주소를 사용하고, 인터넷으로 나갈 때만 공인 주소(즉 유일한 IP 주소)를 가지고 나가는 방식(IP mascarading). 반드시 EIP(Elastic IP, 고정 IP)를 할당해주어야 함.
         * 보안 액세스 옵션들
